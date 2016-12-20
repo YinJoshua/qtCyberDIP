@@ -9,6 +9,7 @@
 #include <iostream>
 #include <math.h>
 #include <vector>
+#include <map>
 using namespace std;
 
 //#include <opencv2/legacy/legacy.hpp>
